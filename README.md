@@ -1,2 +1,2 @@
-# penguins_size
-penguins_size 분석용 데이터 
+# 수업용 데이터 모음
+수업용 분석용 데이터 예시 모음 
